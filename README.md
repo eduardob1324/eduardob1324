@@ -1,11 +1,11 @@
-<h1 align="">Hola, Soy Eduardo Bernabe</h1>
-<h3 align="">Soy un desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.</h3>
+<h2 align="">Hola, Soy Eduardo Bernabe</h2>
+<h4 align="">Soy un desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.</h4>
 
 
 
 
-<h1 align="">Acerca de mí</h1>
-<h3 align=""> Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que mucho de lo que he aprendido a lo largo de mi carrera se debe en gran medida a que ayudaba a mis compañeros de universidad. Siempre estoy dispuesto a colaborar, a compartir mis conocimientos y a aprender cosas nuevas. ¡Saludos!</h3>
+<h2 align="">Acerca de mí</h2>
+<h4 align=""> Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que mucho de lo que he aprendido a lo largo de mi carrera se debe en gran medida a que ayudaba a mis compañeros de universidad. Siempre estoy dispuesto a colaborar, a compartir mis conocimientos y a aprender cosas nuevas. ¡Saludos!</h4>
 
 
 
@@ -16,9 +16,11 @@
 
 
 
+<h2 align="left"></h2>
+<h2 align="left"></h2>
 
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h2 align="left">Lenguajes y herramientas:</h2>
 <p> 
   <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="mysql" width="40" height="40"/> </a>
