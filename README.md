@@ -2,7 +2,7 @@
 <h3 align="">Soy un desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.</h3>
 
 <h1 align="">Acerca de mí</h1>
-<h3 align=""> Soy Ing en sistemas computacionales,me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que mucho de lo que he aprendido a lo largo de mi carrera se debe en gran medida a que ayudava a mis compañeros de universidad, siempre estoy dispuesto a colaborar y a compartir mis conocimientos.</h3>
+<h3 align=""> Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que mucho de lo que he aprendido a lo largo de mi carrera se debe en gran medida a que ayudaba a mis compañeros de universidad. Siempre estoy dispuesto a colaborar, a compartir mis conocimientos y a aprender cosas nuevas. ¡Saludos!</h3>
 
 
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
+  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
