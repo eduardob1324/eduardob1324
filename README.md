@@ -1,6 +1,6 @@
 # Hola, Soy Eduardo Bernabe 
 
-####**Soy un desarrollador java enfocado en el Backend**
+**Soy un desarrollador java enfocado en el Backend**
 <!--
 **eduardob1324/eduardob1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
