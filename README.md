@@ -1,8 +1,8 @@
-<h1 align="center">Hola, Soy Eduardo Bernabe</h1>
-<h3 align="center">Soy un desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.</h3>
+<h1 align="">Hola, Soy Eduardo Bernabe</h1>
+<h3 align="">Soy un desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.</h3>
 
-<h1 align="center">Acerca de mí</h1>
-<h3 align="center"> Soy Ing en sistemas computacionales,me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que mucho de lo que he aprendido a lo largo de mi carrera se debe en gran medida a que ayudava a mis compañeros de universidad, siempre estoy dispuesto a colaborar y a compartir mis conocimientos.</h3>
+<h1 align="">Acerca de mí</h1>
+<h3 align=""> Soy Ing en sistemas computacionales,me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que mucho de lo que he aprendido a lo largo de mi carrera se debe en gran medida a que ayudava a mis compañeros de universidad, siempre estoy dispuesto a colaborar y a compartir mis conocimientos.</h3>
 
 
 
