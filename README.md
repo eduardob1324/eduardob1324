@@ -1,8 +1,3 @@
-# Hola, Soy Eduardo Bernabe 
-
-**Soy un desarrollador java con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend, me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que creo que siempre se aprenden cosas nuevas si estas dispuesto a ayudar a los demas.**
-
-
 <h1 align="center">Hola, Soy Eduardo Bernabe</h1>
 <h3 align="center">Soy un desarrollador java con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend, me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que creo que siempre se aprenden cosas nuevas si estas dispuesto a ayudar a los demas.</h3>
 
