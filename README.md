@@ -1,5 +1,9 @@
 <h1 align="center">Hola, Soy Eduardo Bernabe</h1>
-<h3 align="center">Soy un desarrollador java con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend, me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que creo que siempre se aprenden cosas nuevas si estas dispuesto a ayudar a los demas.</h3>
+<h3 align="center">Soy un desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.</h3>
+
+<h1 align="center">Acerca de mí</h1>
+<h3 align="center"> Soy Ing en sistemas computacionales,me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que mucho de lo que he aprendido a lo largo de mi carrera se debe en gran medida a que ayudava a mis compañeros de universidad, siempre estoy dispuesto a colaborar y a compartir mis conocimientos.</h3>
+
 
 
 <h3 align="left">Contacta conmigo:</h3>
@@ -9,11 +13,10 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
 
 <!--
