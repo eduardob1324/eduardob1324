@@ -1,6 +1,9 @@
 <h1 align="">Hola, Soy Eduardo Bernabe</h1>
 <h3 align="">Soy un desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.</h3>
 
+
+
+
 <h1 align="">Acerca de mí</h1>
 <h3 align=""> Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que mucho de lo que he aprendido a lo largo de mi carrera se debe en gran medida a que ayudaba a mis compañeros de universidad. Siempre estoy dispuesto a colaborar, a compartir mis conocimientos y a aprender cosas nuevas. ¡Saludos!</h3>
 
@@ -10,6 +13,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/lizandro-narvaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lizandro-narvaez" height="30" width="40" /></a>
 </p>
+
+
+
+
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p> 
