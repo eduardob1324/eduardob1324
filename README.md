@@ -10,6 +10,7 @@
 
 
 <h3 align="left">Contacta conmigo:</h3>
+[Envíame un correo](mailto:alonsoeduardo.1324o@gmaail.com.com)
 <p align="left">
 <a href="https://linkedin.com/in/lizandro-narvaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lizandro-narvaez" height="30" width="40" /></a>
 </p>
