@@ -1,4 +1,4 @@
-<h2 align="">Hola, Soy Eduardo Bernabe</h2>
+### Hi there 👋 // Hola 👋
 <h4 align="">Soy un desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.</h4>
 
 
