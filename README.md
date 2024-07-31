@@ -1,5 +1,6 @@
 ### Hi there 👋 // Hola 👋
 <h4 align="">Soy un desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.</h4>
+¡Hola! Bienvenido a mi perfil de GitHub, soy desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.
 
 
 
