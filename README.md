@@ -1,12 +1,9 @@
 ### Hi there 👋 // Hola 👋
-<h4 align="">Soy un desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.</h4>
+
 ¡Hola! Bienvenido a mi perfil de GitHub, soy desarrollador java jr con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.
 
-
-
-
-<h2 align="">Acerca de mí</h2>
-<h4 align=""> Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que mucho de lo que he aprendido a lo largo de mi carrera se debe en gran medida a que ayudaba a mis compañeros de universidad. Siempre estoy dispuesto a colaborar, a compartir mis conocimientos y a aprender cosas nuevas. ¡Saludos!</h4><br>
+### Acerca de mí
+Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diversos y ayudar a los colegas, ya que mucho de lo que he aprendido a lo largo de mi carrera se debe en gran medida a que ayudaba a mis compañeros de universidad. Siempre estoy dispuesto a colaborar, a compartir mis conocimientos y a aprender cosas nuevas. ¡Salu✌️! 
 
 
 
