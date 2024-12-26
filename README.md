@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./eduardo.svg" alt="Eduardo Bernabe" />
+  <img src="./ed.svg" alt="Eduardo Bernabe" />
 </h1>
 
 ### Hi there 👋 // Hola 👋
