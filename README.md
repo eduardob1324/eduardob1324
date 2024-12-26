@@ -16,7 +16,7 @@ Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diver
 <!-- <a href="https://linkedin.com/in/lizandro-narvaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lizandro-narvaez" height="30" width="40" /></a>
 </p> -->
 
-### Lenguajes y herramientas:
+## ⚡ Technologies
 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/>  ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -30,10 +30,6 @@ Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diver
 - Spring Boot <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="mysql" width="40" height="40"/> </a>      - MySQL <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 - Angular <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="mysql" width="40" height="40"/> </a>
 
-
-
-  
- 
   
 
   <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="mysql" width="40" height="40"/> </a>
