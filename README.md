@@ -20,7 +20,14 @@ Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diver
 - Java  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/> </a>                    - Oracle <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="mysql" width="40" height="40"/> </a>
 - Spring Boot <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="mysql" width="40" height="40"/> </a>      - MySQL <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 - Angular <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="mysql" width="40" height="40"/> </a>
-  
+
+  | Title | Published On |
+| ----- | ------------ |
+| [Function types and single-method interfaces in Go](http://rednafi.com/go/func_types_and_smis/) | Sun, 22 Dec 2024 |
+| [SSH saga](http://rednafi.com/misc/ssh_saga/) | Tue, 17 Dec 2024 |
+| [Injecting Pytest fixtures without cluttering test signatures](http://rednafi.com/python/inject_pytest_fixture/) | Mon, 02 Dec 2024 |
+| [Explicit method overriding with @typing.override](http://rednafi.com/python/typing_override/) | Wed, 06 Nov 2024 |
+| [Quicker startup with module-level __getattr__](http://rednafi.com/python/module_getattr/) | Sun, 03 Nov 2024 |
   
  
   
