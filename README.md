@@ -12,7 +12,7 @@ Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diver
 
 ### Lenguajes y herramientas:
 <p> 
-  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/> Java</a> 
   <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="mysql" width="40" height="40"/> </a>
   <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="mysql" width="40" height="40"/> </a>
   <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="mysql" width="40" height="40"/> </a>
