@@ -17,22 +17,23 @@ Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diver
 </p> -->
 
 ### Lenguajes y herramientas:
-- Java  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/> </a>                    - Oracle <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="mysql" width="40" height="40"/> </a>
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+-   <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/> </a>                    - Oracle <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="mysql" width="40" height="40"/> </a>
 - Spring Boot <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="mysql" width="40" height="40"/> </a>      - MySQL <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 - Angular <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="mysql" width="40" height="40"/> </a>
 
-<div align="center">
 
-#### Recent articles
 
-| Title | Published On |
-| ----- | ------------ |
-| [Function types and single-method interfaces in Go](http://rednafi.com/go/func_types_and_smis/) | Sun, 22 Dec 2024 |
-| [SSH saga](http://rednafi.com/misc/ssh_saga/) | Tue, 17 Dec 2024 |
-| [Injecting Pytest fixtures without cluttering test signatures](http://rednafi.com/python/inject_pytest_fixture/) | Mon, 02 Dec 2024 |
-| [Explicit method overriding with @typing.override](http://rednafi.com/python/typing_override/) | Wed, 06 Nov 2024 |
-| [Quicker startup with module-level __getattr__](http://rednafi.com/python/module_getattr/) | Sun, 03 Nov 2024 |
-</div>
   
  
   
