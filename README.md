@@ -1,4 +1,10 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Eduardo Bernabe" />
+</h1>
+
 ### Hi there 👋 // Hola 👋
+
+
 
 ¡Hola! Bienvenido a mi perfil de GitHub, soy desarrollador java con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.
 
