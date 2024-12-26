@@ -17,9 +17,9 @@ Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diver
 </p> -->
 
 ### Lenguajes y herramientas:
-- Java  | <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/> </a>
-- Spring Boot | <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="mysql" width="40" height="40"/> </a>
-- Angular |  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="mysql" width="40" height="40"/> </a>
+- Java  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/> </a> - uno
+- Spring Boot <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="mysql" width="40" height="40"/> </a>
+- Angular <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="mysql" width="40" height="40"/> </a>
   
   
  
