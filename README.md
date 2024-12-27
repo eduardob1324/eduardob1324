@@ -21,15 +21,15 @@ Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diver
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/>  ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring-boot)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle-c14438?style=flat-square&logo=oracle)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Oracle](https://img.shields.io/badge/-Oracle-c14438?style=flat-square&logo=oracle)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 
 <!--
 **eduardob1324/eduardob1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
