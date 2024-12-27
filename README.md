@@ -26,7 +26,7 @@ Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diver
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Oracle](https://img.shields.io/badge/-Oracle-FCA121?style=flat-square&logo=oracle)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
 
 
 
