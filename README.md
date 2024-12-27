@@ -2,7 +2,7 @@
   <img src="./ed.svg" alt="Eduardo Bernabe" />
 </h1>
 
-###👋 // Hola 👋
+### 👋 // Hola 👋
 
 
 
