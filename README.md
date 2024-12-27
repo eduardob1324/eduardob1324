@@ -2,7 +2,7 @@
   <img src="./ed.svg" alt="Eduardo Bernabe" />
 </h1>
 
-### Hi there 👋 // Hola 👋
+###👋 // Hola 👋
 
 
 
@@ -16,7 +16,7 @@ Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diver
 <!-- <a href="https://linkedin.com/in/lizandro-narvaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lizandro-narvaez" height="30" width="40" /></a>
 </p> -->
 
-### ⚡ Technologies
+### ⚡ Tecnologías
 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/>  ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
