@@ -19,20 +19,19 @@ Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diver
 ## ⚡ Technologies
 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="40" height="40"/>  ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-FCA121?style=flat-square&logo=spring)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-FCA121?style=flat-square&logo=spring-boot)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring-boot)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Oracle](https://img.shields.io/badge/-Oracle-FCA121?style=flat-square&logo=oracle)
 
-https://img.shields.io/badge/-SpringBoot-FCA121?style=flat-square&logo
 
 
-  Oracle <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="mysql" width="40" height="40"/> </a>
-- Spring Boot <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="mysql" width="40" height="40"/> </a>      - MySQL <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+
+
 - Angular <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="mysql" width="40" height="40"/> </a>
 
   
