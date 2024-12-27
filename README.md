@@ -27,22 +27,9 @@ Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diver
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Oracle](https://img.shields.io/badge/-Oracle-c14438?style=flat-square&logo=oracle)
-
-
-
-
-
-- Angular <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="mysql" width="40" height="40"/> </a>
-
-  
-
-  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="mysql" width="40" height="40"/> </a>
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
-
-
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 
 <!--
 **eduardob1324/eduardob1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
