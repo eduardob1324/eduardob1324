@@ -2,14 +2,11 @@
   <img src="./ed.svg" alt="Eduardo Bernabe" />
 </h1>
 
-### 👋 // Hola 👋
-
-
-
-¡Hola! Bienvenido a mi perfil de GitHub, soy desarrollador java con dos años de experiencia en el mercado laboral enfocado en el Backend, pero se un poco de frontend.
+### 👋 ¡Hola!  👋
+Bienvenido a mi perfil de GitHub. Soy desarrollador Java con dos años de experiencia en el mercado laboral, enfocado en el backend, aunque también tengo algunos conocimientos de frontend.
 
 ### Acerca de mí
-Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diversos y ayudar a los colegas, pues mucho de lo que he aprendido a lo largo de mi carrera se debe en gran medida a que ayudaba a mis compañeros de universidad. Siempre estoy dispuesto a colaborar, compartir mis conocimientos y a aprender cosas nuevas. ¡Salu✌️! 
+Soy Ingeniero en Sistemas Computacionales. Me gusta colaborar en proyectos diversos y ayudar a mis colegas, ya que gran parte de lo que he aprendido a lo largo de mi carrera se debe a que ayudaba a mis compañeros en la universidad. Siempre estoy dispuesto a colaborar, compartir mis conocimientos y aprender cosas nuevas. ¡Salu✌️! 
 
 
 <!-- <p align="left"> -->
